@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">新闻快报</string>
+    <string name="title_activity_fragment">Fragment</string>
+</resources>
