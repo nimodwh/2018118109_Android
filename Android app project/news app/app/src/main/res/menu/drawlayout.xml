@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+
+    </group>
+    <item android:title="发现" android:icon="@mipmap/fx" />
+    <item android:title="推荐应用" android:icon="@mipmap/tj"/>
+    <item android:title="微应用" android:icon="@mipmap/yy"/>
+    <item android:id="@+id/groupfirst" android:icon="@mipmap/aq" android:title="安全中心" />
+    <item  android:id="@+id/grouptwo" android:title="关于" android:icon="@mipmap/gy"/>
+
+</menu>
